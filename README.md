@@ -47,7 +47,7 @@ One thing that is important to note: There are _thousands_ of CSS properties.  W
 Learning CSS is definitely a hands-on process, so the codealong linked below
 should be used by each student as we go through some of the CSS basics.
 
-[The Ultimate CSS Walkthrough](https://github.com/learn-co-curriculum/kwk-l1-css-walkthrough-code-along)
+[The Ultimate CSS Walkthrough]<!-- (https://github.com/learn-co-curriculum/kwk-l1-css-walkthrough-code-along) -->
 
 *Note:* The teacher should also clone the above repository so students can follow along
 as a group. The text on `index.html` can be read aloud and provides a good guide
@@ -59,7 +59,7 @@ HTML and CSS are all you need to build a great looking website.  Building a webs
 is also a great way to get better at HTML and CSS!  This site can be about anything, and should
 use all of the concepts we've learned today.  Use a variety of HTML tags and CSS classes to create different sections on the page.
 
-[Building My Own HTML Website](https://github.com/learn-co-curriculum/kwk-l1-my-own-html-website)
+[Building My Own HTML Website]<!-- (https://github.com/learn-co-curriculum/kwk-l1-my-own-html-website) -->
 
 During this project, you can use any HTML elements
 
