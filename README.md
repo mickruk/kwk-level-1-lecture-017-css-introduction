@@ -16,6 +16,9 @@ for setting up the structure of a web page. In order to make modern web pages lo
 
 [Here is an example of some plain old HTML and what just a little bit of CSS can do!](https://ironboard-learn.s3.amazonaws.com/klossy_basic_html_example.html)
 
+#### CFU
+How are HTML and CSS related?
+
 CSS, or Cascading Style Sheets, is its own language that defines how HTML is displayed on a page. It has its own rules for syntax that we will learn, but once you know the basics, you'll have the ability to style HTML in limitless ways. Before we start practicing, CSS has a few basic rules that we should discuss:
 
 * CSS can interact with HTML in **three** ways:
